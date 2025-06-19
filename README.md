@@ -17,6 +17,5 @@
 - Repetitorlik va darsga mo‘ljallangan platformalar
 
 ### 📫 Bog‘lanish uchun:
-- Telegram: @MTX_3324
+- Telegram: @your_telegram_username
 - GitHub: [Xusanovich-MTX](https://github.com/Xusanovich-MTX)
-
