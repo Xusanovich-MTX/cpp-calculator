@@ -1,3 +1,4 @@
+
 # 👋 Salom, men Tohirjon (Xusanovich-MTX)
 
 ### 🧑‍💻 Men haqimda:
@@ -16,5 +17,6 @@
 - Repetitorlik va darsga mo‘ljallangan platformalar
 
 ### 📫 Bog‘lanish uchun:
-- Telegram: @your_telegram_username
+- Telegram: @MTX_3324
 - GitHub: [Xusanovich-MTX](https://github.com/Xusanovich-MTX)
+
